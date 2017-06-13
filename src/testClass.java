@@ -1,4 +1,3 @@
-
+//TEST
 public class testClass {
-
 }
